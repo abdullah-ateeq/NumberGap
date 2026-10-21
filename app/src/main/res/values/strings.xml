@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NumberGap</string>
+    <string name="app_subtitle">Find the difference between two numbers.</string>
+</resources>
